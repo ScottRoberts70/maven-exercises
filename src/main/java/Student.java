@@ -1,9 +1,7 @@
-import jdk.internal.icu.text.UnicodeSet;
 
 import java.util.ArrayList;
 
 public class Student {
-    public UnicodeSet getGrades;
     private long id;
     private String name;
     ArrayList<Integer> grades;
